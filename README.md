@@ -68,7 +68,7 @@ Do not enable test signing on a real workstation unless you understand the secur
 
 The vulnerable code is intentionally included for local crash analysis and learning purposes only.
 
-## Blog Series Plan maybe?)
+## Blog Series Plan (maybe?)
 
 ```text
 Part 1: Building VulnDr
