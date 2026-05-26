@@ -1,0 +1,57 @@
+# Visual Studio workspace/cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+Browse.VC.db
+ipch/
+*.ipch
+*.vsidx
+DocumentLayout*.json
+
+# Build directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# C/C++ and MSBuild intermediates
+*.obj
+*.iobj
+*.idb
+*.pdb
+*.ipdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+*.Build.CppClean.log
+
+# Windows driver and signing outputs
+*.sys
+*.cat
+*.cer
+*.pfx
+*.pvk
+
+# User-mode binaries and dumps
+*.exe
+*.dll
+*.lib
+*.exp
+*.dmp
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+~$*
+Thumbs.db
+Desktop.ini
