@@ -4,6 +4,8 @@ This folder contains the code for the first part of the vulnerable driver resear
 
 The purpose of this section is to build a Windows kernel driver from scratch, understand how user-mode applications communicate with drivers through IOCTLs, and demonstrate how a simple trust-boundary mistake can become a kernel-mode vulnerability.
 
+Read the blog post [here](https://crypt0ace.github.io/posts/Hunting-For-Vulnerable-Drivers/)
+
 > **Warning**
 >
 > This folder contains an intentionally vulnerable driver path. Run it only inside an isolated Windows VM. The vulnerable IOCTL can crash the system.

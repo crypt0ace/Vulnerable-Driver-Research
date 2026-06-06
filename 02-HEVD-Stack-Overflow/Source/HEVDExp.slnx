@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HEVDExp.vcxproj" Id="ead35b4c-87bb-478d-ae9f-220d425ba275" />
+</Solution>
