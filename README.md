@@ -70,6 +70,17 @@ Do not enable test signing on a real workstation unless you understand the secur
 
 The vulnerable code is intentionally included for local crash analysis and learning purposes only.
 
+<<<<<<< HEAD
+=======
+## Blog Series Plan (maybe?)
+
+```text
+Part 1: Building VulnDr
+Part 2: Reversing VulnDr
+Part 3: Hunting Real Vulnerable Drivers
+```
+
+>>>>>>> 0f738f47ccf0b4517b1b4407259d9ad959e090d0
 ## Disclaimer
 
 This project is intended only for security education, vulnerability research, and defensive learning in a controlled lab environment. The author is not responsible for misuse or damage caused by running this code outside an isolated test environment.
