@@ -1,6 +1,6 @@
 # 02 - HEVD - Stack Overflow
 
-This folder contains the code for the second part of the vulnerable driver research series.
+This folder contains the code for the second part of the vulnerable driver research series. The code has SMEP bypass as well. In case youre working without SMEP follow the blogbost and you'll find the working code for that as well.
 
 The purpose of this section is to move from a custom vulnerable driver to a public vulnerable driver target, reverse the HEVD stack overflow path, understand how the IOCTL reaches the vulnerable function, and build a small user-mode client to trigger and study the bug in WinDbg.
 
